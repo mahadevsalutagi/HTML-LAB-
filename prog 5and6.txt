@@ -1,5 +1,3 @@
-# HTML-LAB-
-PROGRAMS
 5.  Design an html having a text box and four buttons viz. factorial, Fibonacci, prime, and palindrome. when a button is pressed an appropriate JavaScript function should be called to display
 a. factorial of that number 
 b. Fibonacci series up to that number
